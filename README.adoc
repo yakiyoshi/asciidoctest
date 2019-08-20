@@ -2,6 +2,7 @@
 OpenShift tips
 :toc:
 
-= 章
-== 節
-. hogehoge
+= OpenShift 3.1
+== 認証
+include::docs/basics.adoc[]
+
