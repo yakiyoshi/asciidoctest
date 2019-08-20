@@ -1,6 +1,5 @@
-= OpenShift tips
-Akiyoshi Yonekura <akiyoshi.yonekura@hpe.com>
-v1.0, 2019-05-28
+= OpenShift Tips
+OpenShift tips
 :toc:
 
 = 章
